@@ -1,0 +1,14 @@
+{
+  "name": "mogapp",
+  "version": "1.0.0",
+  "description": "fsfe practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "megan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
